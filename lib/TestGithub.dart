@@ -10,6 +10,6 @@ class MyGit extends StatefulWidget {
 class _MyGitState extends State<MyGit> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold();
   }
 }
